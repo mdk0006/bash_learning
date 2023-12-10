@@ -82,5 +82,6 @@ In Conclusion use double quotes for
 * Assigning URL to variables
 * When in doubt use double quotes
 *Note* $ sign can be used with other characters to expand variables
+*Example With & Without Quotes*
 ![With_Quotes](./with_quotes.png)
 ![WithOut_Quotes](./without_quotes.png)
