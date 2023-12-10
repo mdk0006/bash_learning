@@ -77,6 +77,8 @@ for element in string "${string}";do
 echo "${element}"
 done
 ```
+*"" To be taken as one string*
+*{} to concatenate with other*
 In Conclusion use double quotes for 
 * Filenames,Directory Paths
 * Assigning URL to variables
